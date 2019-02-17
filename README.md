@@ -12,3 +12,5 @@
    * In this section we learn the basics of TensorFlow and Pandas. Through practices linked we develop our own linear regression code 
 * [Generalization](https://github.com/AntonioErdeljac/Google-Machine-Learning-Course-Notes/wiki/%235-Generalization)
    * In this article we discuss the problem of overfitting, learn the difference between a good and a bad model, learn about subsets used in model training & generalization
+* [Training and test sets](https://github.com/AntonioErdeljac/Google-Machine-Learning-Course-Notes/wiki/%236-Training-and-test-sets)
+   * In this section we learn about data splitting, dangers of training on test data & test data characteristics
