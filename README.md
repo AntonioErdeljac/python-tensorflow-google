@@ -10,3 +10,5 @@
    * In this section we explore loss reduction methods by explaining gradient descent, batches, iterative learning and other effective learning methods
 * [First Steps With Tensorflow](https://github.com/AntonioErdeljac/Google-Machine-Learning-Course-Notes/wiki/%234-First-Steps-With-TensorFlow)
    * In this section we learn the basics of TensorFlow and Pandas. Through practices linked we develop our own linear regression code 
+* [Generalization](https://github.com/AntonioErdeljac/Google-Machine-Learning-Course-Notes/wiki/%235-Generalization)
+   * In this article we discuss the problem of overfitting, learn the difference between a good and a bad model, learn about subsets used in model training & generalization
