@@ -16,3 +16,5 @@
    * In this section we learn about data splitting, dangers of training on test data & test data characteristics
 * [Validation](https://github.com/AntonioErdeljac/Google-Machine-Learning-Course-Notes/wiki/%237-Validation)
    * In this section we cover the importance of validation, a 3rd partition in a dataset
+* [Representation](https://github.com/AntonioErdeljac/Google-Machine-Learning-Course-Notes/wiki/8.-Representation)
+   * In this section we discuss qualities of features, learn about feature engineering and mapping values to useful features
