@@ -18,3 +18,5 @@
    * In this section we cover the importance of validation, a 3rd partition in a dataset
 * [Representation](https://github.com/AntonioErdeljac/Google-Machine-Learning-Course-Notes/wiki/8.-Representation)
    * In this section we discuss qualities of features, learn about feature engineering and mapping values to useful features
+* [Feature Crosses](https://github.com/AntonioErdeljac/Google-Machine-Learning-Course-Notes/wiki/9.-Feature-Crosses)
+   * In this section we look into feature crosses, a synthetic feature used to improve model's learning & encode non-linear data into useful features
