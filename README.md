@@ -20,3 +20,5 @@
    * In this section we discuss qualities of features, learn about feature engineering and mapping values to useful features
 * [Feature Crosses](https://github.com/AntonioErdeljac/Google-Machine-Learning-Course-Notes/wiki/9.-Feature-Crosses)
    * In this section we look into feature crosses, a synthetic feature used to improve model's learning & encode non-linear data into useful features
+* [Regularization: Simplicity](https://github.com/AntonioErdeljac/Google-Machine-Learning-Course-Notes/wiki/10.-Regularization:-Simplicity)
+   * In this section we look into ways of penalizing the model for being too complex using L2 regularization
