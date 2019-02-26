@@ -24,3 +24,5 @@
    * In this section we look into ways of penalizing the model for being too complex using L2 regularization
 * [Logistic Regression](https://github.com/AntonioErdeljac/Google-Machine-Learning-Course-Notes/wiki/11.-Logistic-Regression)
    * In this section we look into Logistic Regression to calculate probabilty, and dive deeper into it's loss function
+* [Classification](https://github.com/AntonioErdeljac/Google-Machine-Learning-Course-Notes/wiki/12.-Classification)
+   * In this section we dive into evaluation precision and recall of logistic regression, as well as ROC & AUCs curves
