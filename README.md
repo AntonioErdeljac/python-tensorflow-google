@@ -26,3 +26,5 @@
    * In this section we look into Logistic Regression to calculate probabilty, and dive deeper into it's loss function
 * [Classification](https://github.com/AntonioErdeljac/Google-Machine-Learning-Course-Notes/wiki/12.-Classification)
    * In this section we dive into evaluation precision and recall of logistic regression, as well as ROC & AUCs curves
+* [Regularization: Sparsity](https://github.com/AntonioErdeljac/Google-Machine-Learning-Course-Notes/wiki/13.-Regularization:-Sparsity)
+   * In this section we learn the differences between L1 & L2 and how they bring uninformative weights to 0 or close to 0
