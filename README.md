@@ -28,3 +28,5 @@
    * In this section we dive into evaluation precision and recall of logistic regression, as well as ROC & AUCs curves
 * [Regularization: Sparsity](https://github.com/AntonioErdeljac/Google-Machine-Learning-Course-Notes/wiki/13.-Regularization:-Sparsity)
    * In this section we learn the differences between L1 & L2 and how they bring uninformative weights to 0 or close to 0
+* [Neural Networks](https://github.com/AntonioErdeljac/Google-Machine-Learning-Course-Notes/wiki/14.-Neural-Networks)
+   * In this section we learn how to solve non-linear problems with Neural Networks. We dive into basics of Neural Networks structure & how it all works
