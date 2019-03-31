@@ -30,3 +30,5 @@
    * In this section we learn the differences between L1 & L2 and how they bring uninformative weights to 0 or close to 0
 * [Neural Networks](https://github.com/AntonioErdeljac/Google-Machine-Learning-Course-Notes/wiki/14.-Neural-Networks)
    * In this section we learn how to solve non-linear problems with Neural Networks. We dive into basics of Neural Networks structure & how it all works
+* [Training Neural Networks](https://github.com/AntonioErdeljac/Google-Machine-Learning-Course-Notes/wiki/15.-Training-Neural-Networks)
+   * In this article we dive into backpropagation, an algorithm used to traing Neural Networks
