@@ -32,5 +32,5 @@
    * In this section we learn how to solve non-linear problems with Neural Networks. We dive into basics of Neural Networks structure & how it all works
 * [Training Neural Networks](https://github.com/AntonioErdeljac/Google-Machine-Learning-Course-Notes/wiki/15.-Training-Neural-Networks)
    * In this article we dive into backpropagation, an algorithm used to traing Neural Networks
-* [Multi Class Neural Networks](https://github.com/AntonioErdeljac/Google-Machine-Learning-Course-Notes/wiki/15.-Multi-Class-Neural-Networks)
+* [Multi Class Neural Networks](https://github.com/AntonioErdeljac/Google-Machine-Learning-Course-Notes/wiki/16.-Multi-Class-Neural-Networks)
    * In this article we look into multi class neural networks which are the closest to real world example of machine learning usage such as recognizing cars, faces, poses etc.
