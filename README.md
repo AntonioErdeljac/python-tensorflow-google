@@ -34,5 +34,5 @@
    * In this article we dive into backpropagation, an algorithm used to traing Neural Networks
 * [Multi Class Neural Networks](https://github.com/AntonioErdeljac/Google-Machine-Learning-Course-Notes/wiki/16.-Multi-Class-Neural-Networks)
    * In this article we look into multi class neural networks which are the closest to real world example of machine learning usage such as recognizing cars, faces, poses etc.
-* [Embeddings](https://github.com/AntonioErdeljac/Google-Machine-Learning-Course-Notes/wiki/15.-Embeddings)
+* [Embeddings](https://github.com/AntonioErdeljac/Google-Machine-Learning-Course-Notes/wiki/17.-Embeddings)
    * Learn about embeddings & how they are used to translate large sparse-vectors to a lower dimensional space
