@@ -1,4 +1,4 @@
-# Google Machine Learning Course Notes
+# python-tensorflow-google
 
 ### Wiki
 
