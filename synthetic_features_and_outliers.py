@@ -146,10 +146,10 @@ california_housing_dataframe["rooms_per_person"] = (
     california_housing_dataframe["total_rooms"] / california_housing_dataframe["population"])
 
 calibration_data = train_model(
-    learning_rate=0.05,
-    steps=500,
-    batch_size=5,
-    input_feature="rooms_per_person")
+    learning_rate = 0.05,
+    steps = 500,
+    batch_size = 5,
+    input_feature = "rooms_per_person")
 
 
 # In[ ]:
